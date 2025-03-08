@@ -1,4 +1,3 @@
-# GRAVAXTEST
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
@@ -17,3 +16,4 @@ contract GRAVAX is ERC20, Ownable {
         _mint(to, amount);
     }
 }
+
